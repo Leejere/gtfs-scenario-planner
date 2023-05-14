@@ -3,4 +3,5 @@ env/
 notebooks/
 .git
 .gitignore
+api/
 *.log
