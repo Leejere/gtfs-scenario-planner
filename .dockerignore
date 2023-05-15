@@ -6,3 +6,5 @@ notebooks/
 .gitignore
 *.log
 api/__pycache__
+
+deploy.*

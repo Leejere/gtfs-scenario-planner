@@ -27,3 +27,5 @@ dist-ssr
 env/
 env-dev/
 api/__pycache__
+
+deploy.*
