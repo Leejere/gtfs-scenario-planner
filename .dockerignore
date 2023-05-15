@@ -4,5 +4,5 @@ env-dev/
 notebooks/
 .git
 .gitignore
-api/
 *.log
+api/__pycache__
