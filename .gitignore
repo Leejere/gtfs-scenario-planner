@@ -26,3 +26,4 @@ dist-ssr
 # Python env
 env/
 env-dev/
+api/__pycache__
