@@ -29,3 +29,5 @@ env-dev/
 api/__pycache__
 
 deploy.*
+
+draft/data
